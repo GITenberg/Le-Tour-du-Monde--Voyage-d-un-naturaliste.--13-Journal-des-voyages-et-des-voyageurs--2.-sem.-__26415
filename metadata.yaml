@@ -1,0 +1,37 @@
+_repo: Le-Tour-du-Monde--Voyage-d-un-naturaliste.--13-Journal-des-voyages-et-des-voyageurs--2.-sem.-__26415
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Charton, Édouard
+    alias: Charton, Edouard
+    birthdate: 1807
+    deathdate: 1890
+    gutenberg_agent_id: '25419'
+    url: http://www.gutenberg.org/2009/agents/25419
+    wikipedia: http://fr.wikipedia.org/wiki/%C3%89douard_Charton
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2008-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26415'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Periodicals'
+- !lcc 'G'
+- !lcsh 'Geography -- Pictorial works -- Periodicals'
+- !lcsh 'Travelers -- Periodicals'
+title: "Le Tour du Monde; Voyage d'un naturaliste.\r\nJournal des voyages et des voyageurs;\
+  \ 2. sem. 1860"
+url: http://www.gutenberg.org/ebooks/26415
